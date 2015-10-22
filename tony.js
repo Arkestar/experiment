@@ -49,6 +49,7 @@ function render() {
   geoparticles.rotation.x += 0.005;
   geoparticles.rotation.y += 0.005;
   renderer.render( scene, camera );
+
 }
 
 render();
